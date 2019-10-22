@@ -23,13 +23,16 @@
         bottom:0;
         width:98%;
       }
+      #s{
+        width:0px;
+        height:0px;
+      }
     </style>
   </head>
   <body>
-    <form onsubmit="return false;">
+    <form onsubmit="return false;alert('hi')">
       <div id="inputdiv">
-        <span>&gt;</span><input id="input" type="text" autofocus>
-        <input value="" type="submit">
+        <span>&gt;</span><input id="input" type="text" autofocus><input id="s" value="" type="submit">
       </div>
     </form>
   </body>
