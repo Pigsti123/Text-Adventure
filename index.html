@@ -2,7 +2,14 @@
 <html>
   <head>
     <title>Text Adventure</title>
-    <script src="script.js"></script>
+    <script>
+      function submit(){
+        alert('Form submitted!');
+        return false;
+        var text =  document.getElementById("input").value;
+        document.getElementById("input").value="";
+      }
+    </script>
     <style>
       body {
         background-color:black;
