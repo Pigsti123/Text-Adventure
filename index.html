@@ -4,10 +4,6 @@
     <title>Text Adventure</title>
     <script>
       function submit(){
-        alert('Form submitted!');
-        return false;
-        var text =  document.getElementById("input").value;
-        document.getElementById("input").value="";
       }
     </script>
     <style>
@@ -38,7 +34,7 @@
     </style>
   </head>
   <body>
-    <form onsubmit="submit(); return false;">
+    <form onsubmit="alert('Form submitted!');var text =  document.getElementById('input').value;document.getElementById('input').value='';return false;">
       <div id="inputdiv">
         <span>&gt;</span><input id="input" type="text" autofocus><input id="s" value="" type="submit">
       </div>
