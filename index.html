@@ -34,7 +34,9 @@
     </style>
   </head>
   <body>
-    <form onsubmit="alert('Form submitted!');var text =  document.getElementById('input').value;document.getElementById('input').value='';return false;">
+    <form onsubmit="alert('Form submitted!');var text =  document.getElementById('input').value;document.getElementById('input').value='';var p = document.createElement('p');p.innerHTML=text;body.appendChild(p);
+
+return false;">
       <div id="inputdiv">
         <span>&gt;</span><input id="input" type="text" autofocus><input id="s" value="" type="submit">
       </div>
