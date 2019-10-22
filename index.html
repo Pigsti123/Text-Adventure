@@ -23,7 +23,7 @@
         text-shadow: 0 0 0 white;
       }
       #inputdiv {
-        position:absolute;
+        position:fixed;
         bottom:0;
         width:98%;
       }
@@ -34,7 +34,7 @@
     </style>
   </head>
   <body>
-    <form onsubmit="alert('Form submitted!');var text =  document.getElementById('input').value;document.getElementById('input').value='';var p = document.createElement('p');p.innerHTML=text;body.appendChild(p);
+    <form onsubmit="var text =  document.getElementById('input').value;document.getElementById('input').value='';var p = document.createElement('p');p.innerHTML=text;body.appendChild(p);
 
 return false;">
       <div id="inputdiv">
