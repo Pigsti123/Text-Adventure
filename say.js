@@ -9,7 +9,7 @@ function readnWrite(){
   respond();
   var br = document.createElement('br');
   document.body.appendChild(br);
-  window.scrollTo(0, window.innerHeight*-1);
+  window.scrollTo(0, window.innerHeight);
   return false;
 }
 function respond(){
