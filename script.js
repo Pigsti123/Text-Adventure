@@ -3,9 +3,17 @@ function readnWrite(){
   document.getElementById('input').value='';
   var p = document.createElement('span');p.innerHTML='>'+text;
   document.body.appendChild(p);
+  respond();
   var br = document.createElement('br');
   document.body.appendChild(br);
   return false;
+}
+function respond(){
+  say(rooms.room.[text]);
+}
+function say(messgae){
+  var t = document.createElement('span');t.innerHTML='>'+messgae;
+  document.body.appendChild(t);
 }
 var room=0;
 var items=0;
