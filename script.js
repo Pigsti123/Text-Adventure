@@ -18,6 +18,9 @@ Text response to player input 1:
 You walk to the window. There is a big gap in the middle where glass has been shattered. You have never quite worked out how it got there.
 Text response to player input 2:
 The door is made of Oak wood, but it is so old and worn that a simple touch of it and you would get splinters. It is slammed shut but not locked.
+Text response to player input 3:
+As you stand there staring at the door, you hear the creaking of the staircases wood under the mans heavy boots. The more you wait the closer they get, 
+and the more worried you become.
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
