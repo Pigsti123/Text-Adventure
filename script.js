@@ -21,6 +21,9 @@ The door is made of Oak wood, but it is so old and worn that a simple touch of i
 Text response to player input 3:
 As you stand there staring at the door, you hear the creaking of the staircases wood under the mans heavy boots. The more you wait the closer they get, 
 and the more worried you become.
+Text response to player input 4:
+The room is completely empty around you. The sight of the bare room makes you think of the day you and your parents cleared your house out
+to move. The remeberence of that day brings you to tears.
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
