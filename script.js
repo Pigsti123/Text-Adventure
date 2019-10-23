@@ -5,6 +5,7 @@ function readnWrite(){
   document.body.appendChild(p);
   var br = document.createElement('br');
   document.body.appendChild(br);
+  return false;
 }
 var room=0;
 var items=0;
