@@ -6,11 +6,16 @@ A WINTERS NIGHT
 Chapter 1:The Escape
 It is a cold, miserable night with thunder pounding outside and rain drilling the houses derelict, run down scaly roof. You are afraid.
 Very afraid. Your room is empty, your window shattered, the front door creaking open and shut. You would do anything, anything, to be
-able to leave. But you know you must wait. You must wait and wait. And just
-
-
-
-
+able to leave. But you know you must wait. You must wait and wait. And just as your about to burst in to tears, losing control of everything,
+you hear the footsteps. The footsteps of the man. It's time.
+What do you do?
+1. Walk to window/examine window/look at window
+2. Walk to door/examine door
+3. Stay still/stay still/remain still/
+4. Examine room/look around/search room
+5. Shout out/call out/yell out/say hello
+Text response to player input 1:
+You walk to the window. There is a big gap in the middle where glass has been shattered. You have never quite worked out how it got there.
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
