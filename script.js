@@ -1,6 +1,11 @@
 var room=0;
 var items=0;
-var text={
+
+var rooms={
+  one:{
+    "look":"It is a cold, miserable night with thunder pounding outside and rain drilling the houses derelict, run down scaly roof. You are afraid.\nVery afraid. Your room is empty, your window shattered, the front door creaking open and shut. You would do anything, anything, to be\nable to leave. But you know you must wait. You must wait and wait. And just as your about to burst in to tears, losing control of everything,\nyou hear the footsteps. The footsteps of the man. It's time.\nWhat do you do?"
+  }
+}
 /*
 VOID PRODUCTION PRESENTS
 A WINTERS NIGHT
