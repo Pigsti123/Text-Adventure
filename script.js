@@ -14,6 +14,8 @@ function respond(){
 function say(messgae){
   var t = document.createElement('span');t.innerHTML=messgae;
   document.body.appendChild(t);
+  var br = document.createElement('br');
+  document.body.appendChild(br);
 }
 var room=0;
 var items=0;
