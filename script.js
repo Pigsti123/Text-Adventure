@@ -2,7 +2,9 @@ var room=0;
 var items=0;
 var text={
 /*
+VOID PRODUCTION PRESENTS
 A WINTERS NIGHT
+ACT I
 Chapter 1:The Escape
 It is a cold, miserable night with thunder pounding outside and rain drilling the houses derelict, run down scaly roof. You are afraid.
 Very afraid. Your room is empty, your window shattered, the front door creaking open and shut. You would do anything, anything, to be
@@ -34,6 +36,13 @@ Continuing on from input 1:
 4. Examine room/look around/search room
 5. Shout out/call out/yell out/say hello
 6. Stay still/stay put/remain still/do nothing
+Continuing on from input 2:
+1. Open door
+2. Lock door
+3. Walk to window/examine window/look at window
+4.Stay still/stay put/remain still/do nothing
+5. Examine room/look around/search room
+6. Shout out/call out/yell out/say hello
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
