@@ -1,3 +1,11 @@
+function readnWrite(){
+  var text =  document.getElementById('input').value;
+  document.getElementById('input').value='';
+  var p = document.createElement('span');p.innerHTML='>'+text;
+  document.body.appendChild(p);
+  var br = document.createElement('br');
+  document.body.appendChild(br);
+}
 var room=0;
 var items=0;
 
