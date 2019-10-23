@@ -41,9 +41,7 @@
     </style>
   </head>
   <body>
-    <form onsubmit="var text =  document.getElementById('input').value;document.getElementById('input').value='';var p = document.createElement('span');p.innerHTML='>'+text;body.appendChild(p);var br = document.createElement('br');body.appendChild(br);
-
-return false;">
+    <form onsubmit="readnwrite();return false;">
       <div id="inputdiv">
         <span>&gt;</span><input id="input" type="text" autofocus autocomplete="off"><input id="s" value="" type="submit">
       </div>
