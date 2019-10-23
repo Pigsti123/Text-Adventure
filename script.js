@@ -9,7 +9,7 @@ function readnWrite(){
   return false;
 }
 function respond(){
-  say(rooms.room.[text]);
+  //say(rooms.room.[text]);
 }
 function say(messgae){
   var t = document.createElement('span');t.innerHTML='>'+messgae;
