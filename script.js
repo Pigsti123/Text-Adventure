@@ -16,6 +16,8 @@ What do you do?
 5. Shout out/call out/yell out/say hello
 Text response to player input 1:
 You walk to the window. There is a big gap in the middle where glass has been shattered. You have never quite worked out how it got there.
+Text response to player input 2:
+The door is made of Oak wood, but it is so old and worn that a simple touch of it and you would get splinters. It is slammed shut but not locked.
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
