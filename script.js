@@ -12,7 +12,7 @@ function respond(){
   //say(rooms.room.[text]);
 }
 function say(messgae){
-  var t = document.createElement('span');t.innerHTML='>'+messgae;
+  var t = document.createElement('span');t.innerHTML=messgae;
   document.body.appendChild(t);
 }
 var room=0;
