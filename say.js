@@ -1,3 +1,6 @@
+window.onerror = function(msg, url, linenumber) { alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber); return true; }
+
+
 function readnWrite(){
   var text =  document.getElementById('input').value;
   document.getElementById('input').value='';
@@ -6,6 +9,7 @@ function readnWrite(){
   respond();
   var br = document.createElement('br');
   document.body.appendChild(br);
+  window.scrollTo(infinity, infinity);
   return false;
 }
 function respond(){
