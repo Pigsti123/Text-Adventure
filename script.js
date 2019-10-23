@@ -11,11 +11,11 @@ you hear the footsteps. The footsteps of the man. It's time.
 What do you do?
 1. Walk to window/examine window/look at window
 2. Walk to door/examine door
-3. Stay still/stay still/remain still/
+3. Stay still/stay put/remain still/do nothing
 4. Examine room/look around/search room
 5. Shout out/call out/yell out/say hello
 Text response to player input 1:
-You walk to the window. There is a big gap in the middle where glass has been shattered. You have never quite worked out how it got there.
+You walk to the window. There is a big gap in the middle where glass has been shattered. You have never quite worked out how it broke.
 Text response to player input 2:
 The door is made of Oak wood, but it is so old and worn that a simple touch of it and you would get splinters. It is slammed shut but not locked.
 Text response to player input 3:
@@ -24,6 +24,16 @@ and the more worried you become.
 Text response to player input 4:
 The room is completely empty around you. The sight of the bare room makes you think of the day you and your parents cleared your house out
 to move. The remeberence of that day brings you to tears.
+Text response to player input 5:
+You hear your shaky high pitch voice echo around the house. After you stop yelling you can the increase tempo of the mans footsteps coming in your
+direction.
+Continuing on from input 1:
+1. Climb out window/attempt to climb out window
+2. Open window/attempt to open window
+3. Walk to door/examine door
+4. Examine room/look around/search room
+5. Shout out/call out/yell out/say hello
+6. Stay still/stay put/remain still/do nothing
 */
 function delay(milliseconds) {
   var start = new Date().getTime();
