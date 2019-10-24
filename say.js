@@ -15,12 +15,20 @@ function readnWrite(){
 function respond(){
   //say(rooms.room.[text]);
 }
-function say(message){
+function say(message,slow,time){
   message=message.replace(/\n/, "<br>");
-  var t = document.createElement('span');t.innerHTML=message;
-  document.body.appendChild(t);
-  var br = document.createElement('br');
-  document.body.appendChild(br);
+  if(!slow){
+    var t = document.createElement('span');t.innerHTML=message;
+    document.body.appendChild(t);
+    var br = document.createElement('br');
+    document.body.appendChild(br);
+  } else {
+    for(i=0;i<message.length;i++){
+      var t = document.createElement('span');t.innerHTML=message.substring(i-1,i);
+      document.body.appendChild(t);
+      delay(time);
+    }
+  }
 }
 var room=0;
 var items=0;
