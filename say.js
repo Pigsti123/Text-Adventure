@@ -15,8 +15,9 @@ function readnWrite(){
 function respond(){
   //say(rooms.room.[text]);
 }
-function say(messgae){
-  var t = document.createElement('span');t.innerHTML=messgae;
+function say(message){
+  message=message.replace(/\n/, "<br>");
+  var t = document.createElement('span');t.innerHTML=message;
   document.body.appendChild(t);
   var br = document.createElement('br');
   document.body.appendChild(br);
