@@ -1,0 +1,35 @@
+body {
+        background-color:black;
+        color:white;
+        font: 400 20px courier !important;        
+      }
+      input {
+        background-color:black;
+        color:white;
+        border: 1px solid black;
+        width:97%;
+        outline: none;
+        color: transparent;
+        font: 400 20px courier !important;
+        text-shadow: 0 0 0 white;
+      }
+      #inputdiv {
+        position:fixed;
+        bottom:0;
+        width:98%;
+        margin-top:10px;
+      }
+      #s{
+        width:0px;
+        height:0px;
+      }
+      #inputdiv{
+        background-color:black;
+      }
+      span {
+        float:down;
+      }
+      span::selection,input::selection,body::selection{
+        background-color: transparent;
+        color: #000;
+      }
