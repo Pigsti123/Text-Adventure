@@ -47,6 +47,19 @@ Contiuing on from input 3:
 4. Examine room/look around/search room
 5. Shout out/call out/yell out/say hello
 Continuing on from input 4:
-1. 
-https://coggle.it/diagram/XbDVhnoA8tOnr8B3/t/text-adventure-game-storyboard
+1. Walk to window/examine window/look at window
+2. Walk to door/examine door/look at door
+3. Stay still/stay put/remain still/do nothing
+4.  Shout out/call out/yell out/say hello
+Continuing on from input 5:
+1. Shout out/call out/yell out/say hello/shout out some more/call out some more/yell out some more/say hello again/shout out again/call out again/yell out again
+2. Walk to window/examine window/look at window
+3. Walk to door/examine door/look at door
+4. Stay still/stay put/remain still/do nothing
+5. Examine room/look around/search room
+
+Text Response for(Climb out window/attempt to climb out window):
+You try to open the window and climb out, but as you do the weight of your body against the windowframe causes the glass to shatter, cutting
+you in several places. In a state of shock, you scurry out onto the window ledge before freezing still at the sight of the two story drop down
+to the harsh, cold looking gravel below.
 */
