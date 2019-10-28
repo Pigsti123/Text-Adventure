@@ -42,5 +42,6 @@ Continuing on from input 2:
 6. Shout out/call out/yell out/say hello
 Contiuing on from input 3:
 1. Wait some more/continue waiting/stay waiting/wait/do nothing/stay still/remain still
-2. 
+2. Walk to window/examine window/look at window
+3. Walk to door/examine door
 */
