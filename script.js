@@ -9,7 +9,7 @@ able to leave. But you know you must wait. You must wait and wait. And just as y
 you hear the footsteps. The footsteps of the man. It's time.
 What do you do?
 1. Walk to window/examine window/look at window
-2. Walk to door/examine door
+2. Walk to door/examine door/look at door
 3. Stay still/stay put/remain still/do nothing
 4. Examine room/look around/search room
 5. Shout out/call out/yell out/say hello
@@ -29,7 +29,7 @@ direction.
 Continuing on from input 1:
 1. Climb out window/attempt to climb out window
 2. Open window/attempt to open window
-3. Walk to door/examine door
+3. Walk to door/examine door/look at door
 4. Examine room/look around/search room
 5. Shout out/call out/yell out/say hello
 6. Stay still/stay put/remain still/do nothing
@@ -43,5 +43,5 @@ Continuing on from input 2:
 Contiuing on from input 3:
 1. Wait some more/continue waiting/stay waiting/wait/do nothing/stay still/remain still
 2. Walk to window/examine window/look at window
-3. Walk to door/examine door
+3. Walk to door/examine door/look at door
 */
