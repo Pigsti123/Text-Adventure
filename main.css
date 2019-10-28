@@ -10,6 +10,7 @@ textarea {
   color: white !important;
   border: 1px solid black !important;
   width: 97% !important;
+  height:27px;
   outline: none !important;
   color: transparent !important;
   font: 400 20px courier !important;
@@ -30,6 +31,7 @@ textarea {
 }
 
 span::selection,
+textarea::selection,
 input::selection,
 body::selection {
   background-color: transparent !important;
