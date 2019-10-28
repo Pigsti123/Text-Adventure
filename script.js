@@ -44,4 +44,9 @@ Contiuing on from input 3:
 1. Wait some more/continue waiting/stay waiting/wait/do nothing/stay still/remain still
 2. Walk to window/examine window/look at window
 3. Walk to door/examine door/look at door
+4. Examine room/look around/search room
+5. Shout out/call out/yell out/say hello
+Continuing on from input 4:
+1. 
+https://coggle.it/diagram/XbDVhnoA8tOnr8B3/t/text-adventure-game-storyboard
 */
