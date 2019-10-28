@@ -40,4 +40,7 @@ Continuing on from input 2:
 4.Stay still/stay put/remain still/do nothing
 5. Examine room/look around/search room
 6. Shout out/call out/yell out/say hello
+Contiuing on from input 3:
+1. Wait some more/continue waiting/stay waiting/wait/do nothing/stay still/remain still
+2. 
 */
