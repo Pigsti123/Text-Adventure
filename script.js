@@ -18,11 +18,11 @@ You walk to the window. There is a big gap in the middle where glass has been sh
 Text response to player input 2:
 The door is made of Oak wood, but it is so old and worn that a simple touch of it and you would get splinters. It is slammed shut but not locked.
 Text response to player input 3:
-As you stand there staring at the door, you hear the creaking of the staircases wood under the mans heavy boots. The more you wait the closer they get, 
+As you stand there staring at the door, you hear the creaking of the staircases wood under the mans heavy boots. The more you wait the closer the sounds get, 
 and the more worried you become.
 Text response to player input 4:
 The room is completely empty around you. The sight of the bare room makes you think of the day you and your parents cleared your house out
-to move. The remeberence of that day brings you to tears.
+to move. The rememberance of that day brings you to tears.
 Text response to player input 5:
 You hear your shaky high pitch voice echo around the house. After you stop yelling you can the increase tempo of the mans footsteps coming in your
 direction.
@@ -58,8 +58,9 @@ Continuing on from input 5:
 4. Stay still/stay put/remain still/do nothing
 5. Examine room/look around/search room
 
-Text Response for(Climb out window/attempt to climb out window):
+Text Response for(Input 1Climb out window/attempt to climb out window):
 You try to open the window and climb out, but as you do the weight of your body against the windowframe causes the glass to shatter, cutting
 you in several places. In a state of shock, you scurry out onto the window ledge before freezing still at the sight of the two story drop down
 to the harsh, cold looking gravel below.
+Text Response for(
 */
