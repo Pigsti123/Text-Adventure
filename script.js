@@ -58,9 +58,10 @@ Continuing on from input 5:
 4. Stay still/stay put/remain still/do nothing
 5. Examine room/look around/search room
 
-Text Response for(Input 1Climb out window/attempt to climb out window):
+Text Response for(Input 1:Climb out window/attempt to climb out window):
 You try to open the window and climb out, but as you do the weight of your body against the windowframe causes the glass to shatter, cutting
 you in several places. In a state of shock, you scurry out onto the window ledge before freezing still at the sight of the two story drop down
 to the harsh, cold looking gravel below.
-Text Response for(
+Text Response for(Input 1:Open window/attempt to open window):
+
 */
