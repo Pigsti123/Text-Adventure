@@ -58,10 +58,24 @@ Continuing on from input 5:
 4. Stay still/stay put/remain still/do nothing
 5. Examine room/look around/search room
 
-Text Response for(Input 1:Climb out window/attempt to climb out window):
-You try to open the window and climb out, but as you do the weight of your body against the windowframe causes the glass to shatter, cutting
-you in several places. In a state of shock, you scurry out onto the window ledge before freezing still at the sight of the two story drop down
+Text response for(Input 1-1:Climb out window/attempt to climb out window):
+You try to open the window and climb out, but as you do the weight of your body against the windowframe causes the glass to shatter, cutting a
+deep, long cut across your palm. In a state of shock, you scurry out onto the window ledge before freezing still at the sight of the two story drop down
 to the harsh, cold looking gravel below.
-Text Response for(Input 1:Open window/attempt to open window):
+Text response for(Input 1-2:Open window/attempt to open window):
+You try to open the window without damaging anymore of the glass, and without damaging yourself. But just as you begin it wobbles and then
+the glass shatters into thousands of shards, one of which lands on the palm of you hand, cutting a long, deep painful cut. Despite no one
+being able to see you, you try to act tough. You have to. Now's not the time for tears.
+Text response for(Input 1-3:Walk to door/examine door/look at door):
+The door is made of Oak wood, but it is so old and worn that a simple touch of it and you would get splinters. It is slammed shut but not locked.
+Text response for(Input 1-4:Stay still/stay put/remain still/do nothing):
+As you stand there staring at the door, you hear the creaking of the staircases wood under the mans heavy boots. The more you wait the closer the sounds get, 
+and the more worried you become.
+Text response for(Input 1-5:Examine room/look around/search room):
+The room is completely empty around you. The sight of the bare room makes you think of the day you and your parents cleared your house out
+to move. The rememberance of that day brings you to tears.
+Text response for(Input 1-6:Shout out/call out/yell out/say hello):
+You hear your shaky high pitch voice echo around the house. After you stop yelling you can the increase tempo of the mans footsteps coming in your
+direction.
 
 */
